@@ -26,3 +26,6 @@ The main objective is to apply effects to an audio track (trailer soundtrack), e
 
    ```bash
    ffmpeg -i videoplayback.mp4 -i tron_funny.mp3 -map 0:v -map 1:a -c:v copy -shortest final_trailer.mp4
+
+👤 Project Member
+- Joan Emmanuel Umaña Grajales
